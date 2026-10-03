@@ -2,27 +2,24 @@
 
 # CHALLA RAJA NARENDER REDDY
 
-### Data Engineering • Backend Development • Cloud Computing
+### Cloud Computing • Backend Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Engineer;Python+%7C+SQL+%7C+Apache+Spark;Apache+Airflow+%7C+AWS;Building+Scalable+Data+Pipelines;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Cloud+%7C+DevOps+%7C+Full+Stack;Building+Scalable+Applications;Always+Learning+%26+Building" />
 
 <br><br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/rajanarenderreddy">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:challarajanarenderreddy@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://github.com/rajanarender18">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 
-<a href="https://github.com/rajanarender18">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <br><br>
 
@@ -34,18 +31,18 @@
 
 # About Me
 
-Computer Science graduate with a strong interest in **Data Engineering**, **Cloud Computing**, and **Backend Development**.
+Computer Science graduate with a strong interest in **Cloud Computing**, and **Backend Development**.
 
 I enjoy designing scalable data pipelines, solving real-world problems with Python, and building production-ready applications.
 
 Currently learning:
 
-- Apache Spark
-- Apache Airflow
 - AWS
 - Docker
-- Data Warehousing
-- Distributed Systems
+- Firebase
+- Socker.io
+- Tailwind CSS
+- TypeScript
 
 ---
 
@@ -53,27 +50,33 @@ Currently learning:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,nodejs,react,nextjs,django,mysql,postgres,mongodb,aws,docker,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,reactjs,nodejs,express,django,aws,docker,kubernetes,terraform,jenkins,githubactions,linux,bash,mysql,postgres,mongodb" />
 
 </p>
 
 ---
 
-# Data Engineering Stack
+# Cloud Engineering Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
 
@@ -82,17 +85,17 @@ Currently learning:
 # Current Learning Progress
 
 ```text
-Python                ████████████████████ 100%
+AWS                   ██████████░░░░░░░░░░ 50%
 
-SQL                   ███████████████████░ 95%
+Docker                ████████████░░░░░░░░ 60%
 
-Apache Spark          ████████████░░░░░░░░ 60%
+Firebase              █████████████░░░░░░░ 65%
 
-Apache Airflow        ██████████░░░░░░░░░░ 55%
+Socket.io             ██████████░░░░░░░░░░ 50%
 
-AWS                   █████████░░░░░░░░░░░ 50%
+Tailwind CSS          ██████████████░░░░░░ 70%
 
-Docker                ███████████░░░░░░░░░ 60%
+TypeScript            ███████████░░░░░░░░░ 55%
 ```
 
 ---
@@ -111,19 +114,22 @@ Docker                ███████████░░░░░░░░�
 
 # 2026 Goals
 
-- Master Apache Spark
-- Learn Apache Airflow
-- Build End-to-End Data Pipelines
-- Deploy Projects on AWS
+- Master AWS Cloud Services
+- Build & Deploy Full-Stack Applications
+- Strengthen TypeScript & JavaScript Skills
+- Learn Docker & Cloud Deployment
+- Build Real-Time Applications with Socket.io
+- Develop Production-Ready Projects
+- Improve DevOps & CI/CD Skills
 - Contribute to Open Source
-- Secure a Data Engineering Role
+- Secure a Cloud / Full-Stack Engineering Role
 
 ---
 
-# GitHub Contribution Graph
+# 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajanarender18&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajanarender18&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20GitHub%20Activity" />
 </p>
 
 ---
@@ -132,21 +138,17 @@ Docker                ███████████░░░░░░░░�
 
 > Enable the GitHub Action first, then uncomment this section.
 
-<!--
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/rajanarender18/rajanarender18/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
--->
-
 ---
 
 # Quote
 
-> **"Consistency compounds. Every commit brings me one step closer to becoming a world-class Data Engineer."**
+> **"Consistency compounds. Every commit brings me one step closer to becoming a world-class Cloud Engineer."**
 
 ---
 
@@ -154,7 +156,7 @@ Docker                ███████████░░░░░░░░�
 
 ### Thanks for visiting my profile!
 
-**Open to Data Engineering, Backend Development, and Cloud Computing opportunities.**
+**Open to Backend Development, and Cloud Computing opportunities.**
 
 ⭐ Don't forget to check out my repositories!
 
